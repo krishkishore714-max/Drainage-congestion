@@ -48,4 +48,5 @@ The system uses a Machine Learning classifier trained on environmental data to p
 
 ---
 
-*Developed by Edunet Foundation*
+
+
